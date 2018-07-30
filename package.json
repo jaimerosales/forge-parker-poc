@@ -18,7 +18,7 @@
     "express": "^4.16.3",
     "express-session": "^1.13.0",
     "font-awesome": "^4.7.0",
-    "forge-apis": "^0.4.2",
+    "forge-apis": "^0.4.3",
     "jquery": "*",
     "moment": "^2.22.2",
     "oauth": "^0.9.14",
